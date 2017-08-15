@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Feeding Trough</name>
+	<author>Darren McDonald</author>
+	<targetVersion>0.17.0</targetVersion>
+	<description>v0.1
+    A Hey Feeding Trough for feeding your animals. Default's to storing no items, so you'll need to edit the prefrences.
+	</description>
+</ModMetaData>
