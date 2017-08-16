@@ -4,7 +4,10 @@
 	<name>Feeding Trough</name>
 	<author>Darren McDonald</author>
 	<targetVersion>0.17.0</targetVersion>
-	<description>v0.1
-    A Hey Feeding Trough for feeding your animals. Default's to storing no items, so you'll need to edit the prefrences.
+	<description>A Hey Feeding Trough for feeding your animals. 
+  v0.1 initial version.
+  v0.2 now uses hay as its default storage type
+	
+Mod code can be found here: https://github.com/CompiledMayhem/FeedingTrough
 	</description>
 </ModMetaData>

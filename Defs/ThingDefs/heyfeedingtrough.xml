@@ -39,6 +39,11 @@
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
       <defaultStorageSettings>
         <priority>Important</priority>
+		<filter>
+			<thingDefs>
+				<li>Hay</li>
+			</thingDefs>
+		</filter>
       </defaultStorageSettings>
     </building>
     <inspectorTabs>
