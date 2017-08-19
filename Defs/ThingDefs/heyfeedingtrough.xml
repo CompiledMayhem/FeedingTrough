@@ -4,7 +4,8 @@
   <ThingDef ParentName="FurnitureBase">
     <defName>heyfeedingtrough</defName>
     <label>Trough</label>
-    <thingClass>Building_Storage</thingClass>
+    <thingClass>FeedingTrough.FeedingTrough</thingClass>
+	<tickerType>Normal</tickerType>
     <graphicData>
       <texPath>heyfeedingtrough</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -49,7 +50,7 @@
     <inspectorTabs>
       <li>ITab_Storage</li>
     </inspectorTabs>
-    <staticSunShadowHeight>0.5</staticSunShadowHeight>
+    <staticSunShadowHeight>0.2</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
     <canOverlapZones>false</canOverlapZones>
   </ThingDef>

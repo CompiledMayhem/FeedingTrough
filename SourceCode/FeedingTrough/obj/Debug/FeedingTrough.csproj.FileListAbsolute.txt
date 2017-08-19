@@ -1,0 +1,12 @@
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\FeedingTrough.dll
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\FeedingTrough.pdb
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\Assembly-CSharp.dll
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\UnityEngine.dll
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\NAudio.dll
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\NVorbis.dll
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\bin\Debug\UnityEngine.xml
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\obj\Debug\FeedingTrough.csproj.CoreCompileInputs.cache
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\obj\Debug\FeedingTrough.dll
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\obj\Debug\FeedingTrough.pdb
+C:\Users\Darren\source\repos\FeedingTrough\FeedingTrough\obj\Debug\FeedingTrough.csprojResolveAssemblyReference.cache
