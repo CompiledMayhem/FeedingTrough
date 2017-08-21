@@ -4,10 +4,12 @@
 	<name>Feeding Trough</name>
 	<author>Darren McDonald</author>
 	<targetVersion>0.17.0</targetVersion>
-	<description>A Hey Feeding Trough for feeding your animals. 
-  v0.1 initial version.
-  v0.2 now uses hay as its default storage type
-	
+	<description>A Hay Feeding Trough for feeding your animals. 
+v0.1 initial version.
+v0.2 now uses hay as its default storage type
+v0.3 added the dynamic priorities feature to prevent constant hauling jobs, see youtube video for details
+v0.4 Performance fix. Now uses TickRare() instead of Tick() so it now checks dynamic priorities every 4 seconds instead of 60 times a second. Also fixed a spelling error.
+
 Mod code can be found here: https://github.com/CompiledMayhem/FeedingTrough
 	</description>
 </ModMetaData>

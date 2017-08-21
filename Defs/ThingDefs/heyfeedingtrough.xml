@@ -5,7 +5,7 @@
     <defName>heyfeedingtrough</defName>
     <label>Trough</label>
     <thingClass>FeedingTrough.FeedingTrough</thingClass>
-	<tickerType>Normal</tickerType>
+	<tickerType>Rare</tickerType>
     <graphicData>
       <texPath>heyfeedingtrough</texPath>
       <graphicClass>Graphic_Single</graphicClass>

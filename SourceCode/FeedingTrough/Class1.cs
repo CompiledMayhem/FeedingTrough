@@ -18,12 +18,12 @@ namespace FeedingTrough
         public int highValue = 90;
         public string highText = "meh"; //ditto
 
-        public override void Tick()
+        public override void TickRare()
         {
 
             //Messages.Message("Tick", MessageSound.Silent);
             //run whatever the base wants to do
-            base.Tick();
+            base.TickRare();
             if( dynamicOn == true)
             {
                 //count up the contents of the trough
@@ -59,7 +59,7 @@ namespace FeedingTrough
                 }
                 if (totalItems / maxItems < (this.lowValue / 100.0) && base.settings.Priority != StoragePriority.Important)
                 {
-                    Messages.Message("Setting Trough to import priority", MessageSound.Silent);
+                    Messages.Message("Setting Trough to important priority", MessageSound.Silent);
                     base.settings.Priority = StoragePriority.Important;
                 }
             }          
