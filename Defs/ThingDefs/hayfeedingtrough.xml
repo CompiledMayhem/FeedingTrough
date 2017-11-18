@@ -2,12 +2,12 @@
 <Buildings>
 
   <ThingDef ParentName="FurnitureBase">
-    <defName>heyfeedingtrough</defName>
+    <defName>hayfeedingtrough</defName>
     <label>Trough</label>
     <thingClass>FeedingTrough.FeedingTrough</thingClass>
 	<tickerType>Rare</tickerType>
     <graphicData>
-      <texPath>heyfeedingtrough</texPath>
+      <texPath>hayfeedingtrough</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>(4.5,2)</drawSize>
       <damageData>
@@ -33,7 +33,7 @@
       <WorkToBuild>600</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
-    <description>A hey feeding trough for animals.</description>
+    <description>A hay feeding trough for animals.</description>
     <size>(3,1)</size>
     <building>
       <preventDeterioration>true</preventDeterioration>
